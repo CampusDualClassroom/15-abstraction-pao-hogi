@@ -43,7 +43,6 @@ public abstract class Merchandise {
     public String getName() {
         return name;
     }
-
     public void setName(String name) {
         this.name = name;
     }
@@ -51,7 +50,6 @@ public abstract class Merchandise {
     public String getUniqueId() {
         return uniqueId;
     }
-
     public void setUniqueId(String uniqueId) {
         this.uniqueId = uniqueId;
     }
@@ -59,7 +57,6 @@ public abstract class Merchandise {
     public String getResponsibleId() {
         return responsibleId;
     }
-
     public void setResponsibleId(String responsibleId) {
         this.responsibleId = responsibleId;
     }
@@ -67,7 +64,6 @@ public abstract class Merchandise {
     public int getZone() {
         return zone;
     }
-
     public void setZone(int zone) {
         this.zone = zone;
     }
@@ -75,7 +71,6 @@ public abstract class Merchandise {
     public String getArea() {
         return area;
     }
-
     public void setArea(String area) {
         this.area = area;
     }
@@ -83,7 +78,6 @@ public abstract class Merchandise {
     public String getShelf() {
         return shelf;
     }
-
     public void setShelf(String shelf) {
         this.shelf = shelf;
     }
@@ -91,7 +85,6 @@ public abstract class Merchandise {
     public int getQuantity() {
         return quantity;
     }
-
     public void setQuantity(int quantity) {
         this.quantity = quantity;
     }
